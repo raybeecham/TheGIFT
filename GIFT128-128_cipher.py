@@ -1,9 +1,9 @@
 '''
-GIFT-128-128 implementation
+GIFT-128-128 Python implementation
 Date: 07 June 2023
 Done by: Ray Beecham
 
-Last modification on: 01 November 2017
+Last modification on: 07 June 2023
 '''
 # Importing libraries which will be used for generating random numbers and seeding the random number generator
 import random
