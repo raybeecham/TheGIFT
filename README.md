@@ -1,6 +1,7 @@
 <h1>The GIFT Block Ciphers</h1>
 GIFT is a family of two very lightweight block ciphers: GIFT64 and GIFT128. 
 
+(The original creators)
 # Team
 - **[Subhadeep Banik](https://sites.google.com/site/monsieurlelanc)**, EPFL, Switzerland
 - **Sumit Kumar Pandey**, Ashoka University, India
@@ -9,7 +10,7 @@ GIFT is a family of two very lightweight block ciphers: GIFT64 and GIFT128.
 - **Siang Meng Sim**, DSO National Laboratories, Singapore
 - **[Yosuke Todo](https://ysktodo.wordpress.com/)**, NTT, Japan
 
-You can contact us on [giftcipher@googlegroups.com](mailto:giftcipher@googlegroups.com)
+You can contact them on [giftcipher@googlegroups.com](mailto:giftcipher@googlegroups.com)
 
 # NIST lightweight cryptography competition
 
