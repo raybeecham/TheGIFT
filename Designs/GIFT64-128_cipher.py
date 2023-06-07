@@ -1,7 +1,7 @@
 '''
 GIFT-64-128 Python implementation
 Date: 07 June 2023
-Done by: Ray Beecham
+Done by: Ray P Beecham
 
 Last modification on: 07 June 2023
 '''
