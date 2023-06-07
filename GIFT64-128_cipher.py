@@ -1,3 +1,11 @@
+'''
+GIFT-64-128 implementation
+Date: 07 June 2023
+Done by: Ray Beecham
+
+Last modification on: 01 November 2017
+'''
+
 import random
 import time
 
