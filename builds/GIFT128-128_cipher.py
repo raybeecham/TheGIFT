@@ -78,8 +78,8 @@ def main():
 
     # Print the ciphertext in hexadecimal format
     print("Ciphertext = ", end="")
-    for i in range(16):
-        print(f"{P[15-i]:x}", end="")
+    for i in range(32):
+        print(f"{P[31-i]:x}", end="")
         if i % 2 == 1:
             print(" ", end="")
     print("\n")
@@ -88,8 +88,8 @@ def main():
 
     # Print the plaintext in hexadecimal format
     print("Plaintext = ", end="")
-    for i in range(16):
-        print(f"{P[15-i]:x}", end="")
+    for i in range(32):
+        print(f"{P[31-i]:x}", end="")
         if i % 2 == 1:
             print(" ", end="")
     print()
