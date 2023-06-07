@@ -1,0 +1,22 @@
+show_downloads: false
+
+exclude:
+  - node_modules
+  - script
+
+sass:
+  style: :compressed
+  
+theme: jekyll-theme-midnight
+
+github:
+  is_project_page: false
+  private: false
+  license:
+    name: MIT
+  source:
+    branch: "master"
+    path: "/"
+
+name: null
+title: The GIFT Block Ciphers
