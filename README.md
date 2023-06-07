@@ -1,8 +1,8 @@
 <h1>The GIFT Block Ciphers</h1>
 GIFT is a family of two very lightweight block ciphers: GIFT64 and GIFT128. 
 
-(The original creators)
 # Team
+(The original creators)
 - **[Subhadeep Banik](https://sites.google.com/site/monsieurlelanc)**, EPFL, Switzerland
 - **Sumit Kumar Pandey**, Ashoka University, India
 - **[Thomas Peyrin](https://sites.google.com/site/thomaspeyrin/)**, Nanyang Technological University, Singapore
