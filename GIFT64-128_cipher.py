@@ -1,9 +1,9 @@
 '''
-GIFT-64-128 implementation
+GIFT-64-128 Python implementation
 Date: 07 June 2023
 Done by: Ray Beecham
 
-Last modification on: 01 November 2017
+Last modification on: 6/7/2023
 '''
 
 import random
