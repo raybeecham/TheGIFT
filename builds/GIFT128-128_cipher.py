@@ -67,7 +67,7 @@ def main():
     print()
 
     # Print the key in hexadecimal format
-    print("masterkey = ", end="")
+    print("Masterkey = ", end="")
     for i in range(32):
         print(f"{K[31-i]:x}", end="")
         if i % 2 == 1:
@@ -124,7 +124,7 @@ def enc128(input, masterkey, no_of_rounds, print_details):
 
     for r in range(no_of_rounds):
 
-        # SubCells
+        #SubCells
         for i in range(32):
             input[i] = GIFT_S[input[i]]
 
@@ -142,8 +142,8 @@ def enc128(input, masterkey, no_of_rounds, print_details):
             for j in range(4):
                 bits[4 * i + j] = (input[i] >> j) & 0x1
 
-        # permute the bits
-        print(max(GIFT_P))
+        # prints the max value in the GIFT_P list
+        # print(max(GIFT_P))
 
         for i in range(128):
             perm_bits[GIFT_P[i]] = bits[i]
